@@ -1,0 +1,11 @@
+name: TNT-Tag
+version: ${project.version}
+main: me.pafias.tnttag.TNTTag
+api-version: 1.13
+authors: [Pafias]
+description: TNT Tag
+commands:
+  tnttag:
+    usage: /tnttag
+    aliases: [tt]
+    description: TNT Tag
