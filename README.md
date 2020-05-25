@@ -1,4 +1,4 @@
-#TNT Tag
+# TNT Tag
 
 Simple TNT Tag plugin that I made.
 
